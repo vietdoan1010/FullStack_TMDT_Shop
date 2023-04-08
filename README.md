@@ -1,3 +1,3 @@
 # FullStack_TMDT_Shop
 
-#MERNPROJECT:  npm run dev
+# stars MERNPROJECT:  npm run dev
